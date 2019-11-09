@@ -1,3 +1,4 @@
+""" you can't run a web server on a webserver thanks for playing """
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from os import curdir, sep
 

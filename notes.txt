@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/28238037/git-log-out-user-from-command-line
+cmdkey /delete:LegacyGeneric:target=git:https://github.com
